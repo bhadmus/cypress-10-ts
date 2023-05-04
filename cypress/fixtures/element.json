@@ -1,0 +1,15 @@
+{
+  "user_name_field": "[data-test=\"username\"]",
+  "password_field": "[data-test=\"password\"]",
+  "login_button": "[data-test=\"login-button\"]",
+  "burger_menu": "#react-burger-menu-btn",
+  "logout_link" : "#logout_sidebar_link",
+  "standard": "standard_user",
+  "password": "secret_sauce",
+  "product_header": ".title",
+  "sauce_labs_backpack": ".inventory_item_name",
+  "add_cart_button": "[data-test='add-to-cart-sauce-labs-backpack']",
+  "remove_item": "[data-test='remove-sauce-labs-backpack']",
+  "cart_icon": ".shopping_cart_link",
+  "checkout_button": "[data-test='checkout']"
+}
